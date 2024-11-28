@@ -1,2 +1,3 @@
 # Cat_Photo_Webpage_Html_Refresher
-A small project based on a freecodecamp.org Web dev beginner course.
+
+A small project based on a freecodecamp.org Web dev beginner course. The project is more of a refresher course to get back on my feed after a long break. Hopefully over time as I learn more I can add more to make this webpage come to life...
